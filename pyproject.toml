@@ -1,0 +1,14 @@
+[project]
+name = "backpack-prediction-challenge"
+version = "0.1.0"
+description = "Playground Series - Season 5, Episode 2"
+requires-python = ">=3.12"
+dependencies = [
+    "ipywidgets>=8.1.5",
+    "notebook>=7.3.2",
+    "numpy",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "xgboost>=2.1.4",
+    "ydata-profiling>=4.12.2",
+]
